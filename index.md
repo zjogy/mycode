@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 莫言君行早，更有早行人。
 
 You can use the [editor on GitHub](https://github.com/zjogy/mycode/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
